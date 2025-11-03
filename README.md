@@ -26,3 +26,10 @@ It identifies areas with previous cultivation records and classifies fields base
 
 ## 💡 Keywords
 `GIS` `Remote Sensing` `ArcMap` `Crop Mapping` `Agriculture` `NDVI` `Land Use` `Spatial Analysis`
+## 🌾 Featured Projects
+
+| Project | Description | Link |
+|----------|--------------|------|
+| 🛰️ Crop History Analysis | Mapping and analyzing crop cultivation patterns using ArcMap and Landsat data. | [View on GitHub](https://github.com/miladlachinani/CropHistory_Tabriz) |
+| 🌍 Land Classification Map | Classification of agricultural zones based on NDVI and soil type. | [View Project](https://github.com/miladlachinani/LandClass_Azerbaijan) |
+| 📊 Multi-Layer Visualization | Creating multi-layer thematic maps in ArcMap. | [See Project](https://github.com/miladlachinani/MultiLayer_GIS) |
