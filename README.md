@@ -1,0 +1,2 @@
+# GIS-Portfolio
+🌾 A collection of GIS and Remote Sensing projects focused on agricultural land analysis.   Includes crop history mapping, land classification, and multi-layer visualization using ArcMap.    📍 مجموعه‌ای از پروژه‌های GIS و سنجش از دور با تمرکز بر تحلیل زمین‌های کشاورزی،   نقشه‌سازی سابقه کشت، طبقه‌بندی اراضی و تجسم چندلایه با ArcMap.
