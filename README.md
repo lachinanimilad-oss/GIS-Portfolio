@@ -1,4 +1,4 @@
-# 🌾 Crop History Analysis - Tabriz Region
+# 🌾 Crop History Analysis - Isfahan Region
 
 ## 📌 Project Overview
 This project analyzes agricultural lands in the Tabriz region using satellite imagery and ArcMap tools.  
